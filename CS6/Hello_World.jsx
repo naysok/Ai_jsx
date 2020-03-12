@@ -1,0 +1,1 @@
+alert("Hello World\nHello Illustrator\nHello jsx")
