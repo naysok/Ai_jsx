@@ -1,1 +1,1 @@
-alert("Hello World\nHello Illustrator\nHello jsx")
+alert("Hello World\nHello Illustrator\nHello jsx");
